@@ -1,0 +1,16 @@
+{
+  "name": "todo-",
+  "version": "1.0.0",
+  "description": "We are going to develop an API for the todo apps for revising concept that lies in the Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
